@@ -1,3 +1,4 @@
+import About from '@/components/About'
 import Hero from '@/components/Hero'
 import MobileNav from '@/components/MobileNav'
 import Nav from '@/components/Nav'
@@ -22,6 +23,7 @@ const HomePage = () => {
         <Hero />
         <div className='relative z-[30]'>
           {/* about */}
+          <About />
         </div>
       </div>
     </div>
