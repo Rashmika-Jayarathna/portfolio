@@ -1,3 +1,4 @@
+import Hero from '@/components/Hero'
 import MobileNav from '@/components/MobileNav'
 import Nav from '@/components/Nav'
 import React, { useState } from 'react'
@@ -16,8 +17,12 @@ const HomePage = () => {
         {/* Nav bar */}
         <MobileNav nav = {nav} closeNav={closeNav}/>
         <Nav openNav={openNav}/>
-        
+
         {/* Hero section */}
+        <Hero />
+        <div className='relative z-[30]'>
+          {/* about */}
+        </div>
       </div>
     </div>
   )
