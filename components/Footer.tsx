@@ -10,42 +10,42 @@ const Footer = () => {
     <div className="pt-[8rem] pb:[4rem] bg-[#02050a] ">
       <div className="grid border-b-[1px] pb-[6rem] border-gray-400 grid-cols-1 lg:grid-cols-3 md:grid-cols-2 w-[80%] mx-auto gap-[3rem] ">
         <div className="flex items-center space-x-6">
-          <div className="md:w-[6.5rem] md:h-[6.5rem] w-[5rem] h-[5rem] flex items-center justify-center rounded-full bg-[#55e6a5] ">
-            <MapIcon className="md:w-[4rem] md:h-[4rem] w-[3rem] h-[3rem] text-black" />
+          <div className="md:w-[5rem] md:h-[5rem] w-[5rem] h-[5rem] flex items-center justify-center rounded-full bg-[#55e6a5] ">
+            <MapIcon className="md:w-[3rem] md:h-[3rem] w-[3rem] h-[3rem] text-black" />
           </div>
           <div>
-            <h1 className="text-[35px] mb-[0.2rem] font-semibold text-white ">
+            <h1 className="text-[25px] mb-[0.2rem] font-semibold text-white ">
               Address
             </h1>
-            <p className="text-[17px] w-[90%] text-white opacity-60">
+            <p className="text-[15px] w-[90%] text-white opacity-60">
               Kumbalgama, Dewanagala, Mawanella, Sri Lanka
             </p>
           </div>
         </div>
         <div className="flex items-center space-x-6">
-          <div className="md:w-[6.5rem] md:h-[6.5rem] w-[5rem] h-[5rem] flex items-center justify-center rounded-full bg-[#55e6a5] ">
-            <DevicePhoneMobileIcon className="md:w-[4rem] md:h-[4rem] w-[3rem] h-[3rem] text-black" />
+          <div className="md:w-[5rem] md:h-[5rem] w-[5rem] h-[5rem] flex items-center justify-center rounded-full bg-[#55e6a5] ">
+            <DevicePhoneMobileIcon className="md:w-[3rem] md:h-[3rem] w-[2rem] h-[2rem] text-black" />
           </div>
           <div>
-            <h1 className="text-[35px] mb-[0.2rem] font-semibold text-white ">
+            <h1 className="text-[25px] mb-[0.2rem] font-semibold text-white ">
               Phone
             </h1>
-            <p className="text-[17px] w-[100%] text-white opacity-60">
+            <p className="text-[15px] w-[100%] text-white opacity-60">
               +94 74 012 4383
             </p>
           </div>
         </div>
         <div className="flex items-center space-x-6">
-          <div className="md:w-[6.5rem] md:h-[6.5rem] w-[5rem] h-[5rem] flex items-center justify-center rounded-full bg-[#55e6a5] ">
-            <EnvelopeIcon className="md:w-[4rem] md:h-[4rem] w-[3rem] h-[3rem] text-black" />
+          <div className="md:w-[5rem] md:h-[5rem] w-[5rem] h-[5rem] flex items-center justify-center rounded-full bg-[#55e6a5] ">
+            <EnvelopeIcon className="md:w-[3rem] md:h-[3rem] w-[3rem] h-[3rem] text-black" />
           </div>
           <div>
-            <h1 className="text-[35px] mb-[0.2rem] font-semibold text-white ">
+            <h1 className="text-[25px] mb-[0.2rem] font-semibold text-white ">
               Send Me Email
             </h1>
             <a
               href="mailto:rashmikajayarathna@gmail.com"
-              className="text-[17px] w-[90%] text-white opacity-60"
+              className="text-[15px] w-[90%] text-white opacity-60"
             >
               rashmikajayarathna@gmail.com
             </a>
