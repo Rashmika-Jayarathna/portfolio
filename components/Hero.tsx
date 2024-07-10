@@ -6,7 +6,7 @@ import { ArrowDownTrayIcon } from "@heroicons/react/20/solid";
 
 const Hero = () => {
   const handleDownload = () => {
-    const url = "/Jayarathana-g-w-n-r.pdf";
+    const url = "./Jayarathana-g-w-n-r.pdf";
     const fileName = "Rashmika_Jayarathana_CV.pdf";
     const link = document.createElement("a");
     link.href = url;
