@@ -18,7 +18,7 @@ const Projects = () => {
               rel="noopener noreferrer"
             >
               <Image
-                src="./images/project-1.png"
+                src="./images/project-1-min.png"
                 alt="Project 01"
                 layout="fill"
                 className="object-contain"
@@ -37,7 +37,7 @@ const Projects = () => {
               rel="noopener noreferrer"
             >
               <Image
-                src="./images/project-2.jpg"
+                src="./images/project-2-min.jpg"
                 alt="Project 01"
                 layout="fill"
                 className="object-contain"
@@ -56,7 +56,7 @@ const Projects = () => {
               rel="noopener noreferrer"
             >
               <Image
-                src="./images/project-3.jpg"
+                src="./images/project-3-min.jpg"
                 alt="Project 01"
                 layout="fill"
                 className="object-contain"
@@ -70,7 +70,7 @@ const Projects = () => {
         <div data-aos="fade-up" data-aos-delay="600">
           <div className="transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative w-[100%] h-[200px] md:h-[300px]">
             <Image
-              src="./images/project-4.jpg"
+              src="./images/project-4-min.jpg"
               alt="Project 01"
               layout="fill"
               className="object-contain"
@@ -89,7 +89,7 @@ const Projects = () => {
               rel="noopener noreferrer"
             >
               <Image
-                src="./images/project-5.jpg"
+                src="./images/project-5-min.jpg"
                 alt="Project 01"
                 layout="fill"
                 className="object-contain"
@@ -108,7 +108,7 @@ const Projects = () => {
               rel="noopener noreferrer"
             >
             <Image
-              src="./images/project-6.jpg"
+              src="./images/project-6-min.jpg"
               alt="Project 01"
               layout="fill"
               className="object-contain"
