@@ -21,7 +21,7 @@ const About = () => {
               harnessing technology to create impactful solutions. With a strong
               background in web and software development, I thrive on tackling
               challenges and turning them into innovative outcomes. My goal is
-              to continuously push the boundaries of what's possible, leveraging
+              to continuously push the boundaries of what&#39;s possible, leveraging
               my skills in fixing bugs, solving complex problems, and mastering
               new technologies to contribute meaningfully to projects that make
               a difference.
