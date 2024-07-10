@@ -8,17 +8,18 @@ import React from "react";
 const Footer = () => {
   return (
     <div className="pt-[8rem] pb:[4rem] bg-[#02050a] ">
-      <div className="grid border-b-[1px] pb-[6rem] border-gray-400 grid-cols-1 lg:grid-cols-3 md:grid-cols-2 w-[80%] mx-auto gap-[3rem] ">
+      <div className="grid border-b-[1px] pb-[6rem] border-gray-400 grid-cols-1 lg:grid-cols-3 md:grid-cols-2 w-[80%] mx-auto gap-[2rem] ">
         <div className="flex items-center space-x-6">
           <div className="md:w-[5rem] md:h-[5rem] w-[5rem] h-[5rem] flex items-center justify-center rounded-full bg-[#55e6a5] ">
             <MapIcon className="md:w-[3rem] md:h-[3rem] w-[3rem] h-[3rem] text-black" />
           </div>
           <div>
-            <h1 className="text-[25px] mb-[0.2rem] font-semibold text-white ">
+            <h1 className="text-[20px] mb-[0.2rem] font-semibold text-white ">
               Address
             </h1>
             <p className="text-[15px] w-[90%] text-white opacity-60">
-              Kumbalgama, Dewanagala, Mawanella, Sri Lanka
+              Kumbalgama, Dewanagala,<br></br>
+              Mawanella, Sri Lanka
             </p>
           </div>
         </div>
