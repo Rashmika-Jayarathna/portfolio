@@ -16,7 +16,7 @@ const About = () => {
 
           <div className="mb-[3rem] flex items-center md:space-x-10 ">
             <span className="w-[100px] hidden md:block h-[5px] bg-slate-400 rounded-sm "></span>
-            <p className="text-[19px] text-slate-300 w-[80%] ">
+            <p className="text-[17px] text-slate-300 w-[80%] ">
               Driven by a transformative vision, I am passionate about
               harnessing technology to create impactful solutions. With a strong
               background in web and software development, I thrive on tackling
@@ -36,7 +36,7 @@ const About = () => {
         </div>
         <div
           data-aos="fade-left"
-          className="lg:w-[600px] mx-auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[600px] w-[300px] h-[300px] relative"
+          className="lg:w-[400px] mx-auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[400px] w-[300px] h-[300px] relative"
         >
           <Image
             src="./images/about-min.jpg"
