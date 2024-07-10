@@ -36,7 +36,7 @@ const About = () => {
         </div>
         <div
           data-aos="fade-left"
-          className="lg:w-[400px] mx-auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[400px] w-[300px] h-[300px] relative"
+          className="lg:w-[450px] mx-auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[450px] w-[300px] h-[300px] relative"
         >
           <Image
             src="./images/about-min.jpg"
