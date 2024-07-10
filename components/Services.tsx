@@ -52,8 +52,7 @@ const Services = () => {
             <p className="text-[15px] text-[#d3d2d2] font-normal">
               As a full-stack developer, I combine frontend finesse with backend
               prowess to create cohesive web solutions. Fluent in languages such
-              as JavaScript, Kotlin, and Java, I use frameworks like React +
-              Vite for frontend and Spring Boot for backend development. This
+              as JavaScript,php, etc. This
               allows me to deliver end-to-end applications that meet both
               functional requirements and user experience standards.
             </p>
