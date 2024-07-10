@@ -24,23 +24,23 @@ const HomePage = () => {
 
   const scrollToSection = (section: string) => {
     switch (section) {
-      case 'home':
-        homeRef.current?.scrollIntoView({ behavior: 'smooth' });
+      case "home":
+        homeRef.current?.scrollIntoView({ behavior: "smooth" });
         break;
-      case 'about':
-        aboutRef.current?.scrollIntoView({ behavior: 'smooth' });
+      case "about":
+        aboutRef.current?.scrollIntoView({ behavior: "smooth" });
         break;
-      case 'services':
-        servicesRef.current?.scrollIntoView({ behavior: 'smooth' });
+      case "services":
+        servicesRef.current?.scrollIntoView({ behavior: "smooth" });
         break;
-      case 'skills':
-        skillsRef.current?.scrollIntoView({ behavior: 'smooth' });
+      case "skills":
+        skillsRef.current?.scrollIntoView({ behavior: "smooth" });
         break;
-      case 'projects':
-        projectsRef.current?.scrollIntoView({ behavior: 'smooth' });
+      case "projects":
+        projectsRef.current?.scrollIntoView({ behavior: "smooth" });
         break;
-      case 'contact':
-        contactRef.current?.scrollIntoView({ behavior: 'smooth' });
+      case "contact":
+        contactRef.current?.scrollIntoView({ behavior: "smooth" });
         break;
       default:
         break;
@@ -76,7 +76,11 @@ const HomePage = () => {
     <div className="overflow-x-hidden">
       <div>
         {/* Nav bar */}
-        <MobileNav nav={nav} closeNav={closeNav} scrollToSection={scrollToSection} />
+        <MobileNav
+          nav={nav}
+          closeNav={closeNav}
+          scrollToSection={scrollToSection}
+        />
         <Nav openNav={openNav} scrollToSection={scrollToSection} />
 
         {/* Hero section */}
