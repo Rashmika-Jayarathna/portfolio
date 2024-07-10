@@ -13,4 +13,7 @@
     @apply relative mb-[2rem] font-semibold text-white cursor-pointer text-[27px] w-fit md:block after:block after:content-[''] after:absolute after:h-[3px] after:bg-yellow-400 after:w-full after:scale-0 after:hover:scale-100 after:transition after:duration-300 after:origin-center ;
 
   }
+  .heading{
+    @apply text-center text-white text-[20px] sm:text-[33px] md:text-[45px] font-bold uppercase;
+  }
 }
