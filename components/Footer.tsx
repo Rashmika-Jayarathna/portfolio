@@ -42,7 +42,7 @@ const Footer = () => {
           </div>
           <div>
             <h1 className="text-[25px] mb-[0.2rem] font-semibold text-white ">
-              Send Me Email
+              Email
             </h1>
             <a
               href="mailto:rashmikajayarathna@gmail.com"
