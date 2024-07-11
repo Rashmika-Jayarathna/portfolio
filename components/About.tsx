@@ -3,6 +3,16 @@ import Image from "next/image";
 import React from "react";
 
 const About = () => {
+  const handleDownload = () => {
+    const url = "./Jayarathana-g-w-n-r.pdf";
+    const fileName = "Rashmika_Jayarathana_CV.pdf";
+    const link = document.createElement("a");
+    link.href = url;
+    link.setAttribute("download", fileName);
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
   return (
     <div className="bg-[#121121] pb-[3rem] pt-[4rem] md:pt-[8rem] ">
       <div className="grid grid-cols-1 md:grid-cols-2 w-[80%] mx-auto gap-[3rem] items-center">
@@ -28,7 +38,7 @@ const About = () => {
             </p>
           </div>
           <a href="/Jayarathana-g-w-n-r.pdf" download>
-            <button className="flex px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black items-center space-x-2 ">
+            <button onClick={handleDownload}  className="flex px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black items-center space-x-2 ">
               <p>Download CV</p>
               <ArrowDownTrayIcon className="w-[1.6rem] h-[1.7rem] text-black" />
             </button>
