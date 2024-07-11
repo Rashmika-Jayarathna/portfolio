@@ -17,14 +17,13 @@ This is my personal portfolio website built using **Next.js** and **TypeScript**
 
 ## 🛠️ Technologies Used
 
-- **Framework**: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-- **Language**: ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-- **Styling**: ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-- **Icons**: ![Heroicons](https://img.shields.io/badge/Heroicons-4B5563?style=flat&logo=heroicons&logoColor=white)
-- **Animations**: ![AOS](https://img.shields.io/badge/AOS-000000?style=flat&logo=aos&logoColor=white)
-- **Particles**: ![TSParticles](https://img.shields.io/badge/TSParticles-007ACC?style=flat&logo=typescript&logoColor=white)
-- **Typing Animation**: ![React Type Animation](https://img.shields.io/badge/React%20Type%20Animation-61DAFB?style=flat&logo=react&logoColor=white)
-- **Social Icons**: ![React Social Icons](https://img.shields.io/badge/React%20Social%20Icons-61DAFB?style=flat&logo=react&logoColor=white)
+![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AOS](https://img.shields.io/badge/AOS-000000?style=flat&logo=aos&logoColor=white)
+![TSParticles](https://img.shields.io/badge/TSParticles-007ACC?style=flat&logo=typescript&logoColor=white)
+![React Type Animation](https://img.shields.io/badge/React%20Type%20Animation-61DAFB?style=flat&logo=react&logoColor=white)
+![React Social Icons](https://img.shields.io/badge/React%20Social%20Icons-61DAFB?style=flat&logo=react&logoColor=white)
 
 ## 📂 File Descriptions
 
@@ -50,12 +49,12 @@ This is my personal portfolio website built using **Next.js** and **TypeScript**
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/portfolio-website.git
+    git clone https://github.com/Rashmika-Jayarathna/portfolio.git
     ```
 
 2. **Navigate to the project directory:**
     ```bash
-    cd portfolio-website
+    cd portfolio
     ```
 
 3. **Install the dependencies:**
