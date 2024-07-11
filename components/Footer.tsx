@@ -46,7 +46,7 @@ const Footer = () => {
             </h1>
             <a
               href="mailto:rashmikajayarathna@gmail.com"
-              className="text-[15px] w-[90%] text-white opacity-60"
+              className="text-[15px] w-[100px] text-white opacity-60 break-all"
             >
               rashmikajayarathna@gmail.com
             </a>

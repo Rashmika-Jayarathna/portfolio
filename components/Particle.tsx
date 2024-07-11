@@ -89,7 +89,7 @@ const Particle = () => {
               value: 0.5,
             },
             shape: {
-              type: "circle",
+              type: "polygon",
             },
             size: {
               value: { min: 2, max: 5 },
