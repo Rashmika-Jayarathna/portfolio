@@ -4,6 +4,9 @@
 
 This is my personal portfolio website built using **Next.js** and **TypeScript**. It showcases my skills, projects, and experiences as a software engineering student and developer. The website includes sections for **home**, **about**, **services**, **skills**, **projects**, and **contact**.
 
+![Screenshot 2024-07-10 182006](https://github.com/Rashmika-Jayarathna/portfolio/assets/153979130/037eeb09-7af2-4c7c-89c5-f1e3b2ec89e1)
+
+
 ## ✨ Features
 
 - **Responsive Design**: The website is fully responsive and works on all devices.
