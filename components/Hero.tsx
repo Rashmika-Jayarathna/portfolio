@@ -7,8 +7,8 @@ import { SocialIcon } from "react-social-icons";
 
 const Hero = () => {
   const handleDownload = () => {
-    const url = "./Jayarathna-G-W-N-R.pdf";
-    const fileName = "Rashmika_Jayarathana_CV.pdf";
+    const url = "./Jayarathna-G-W-N-R-1.pdf";
+    const fileName = "Rashmika_Jayarathana.pdf";
     const link = document.createElement("a");
     link.href = url;
     link.setAttribute("download", fileName);
