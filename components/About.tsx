@@ -4,7 +4,7 @@ import React from "react";
 
 const About = () => {
   const handleDownload = () => {
-    const url = "./Jayarathana-g-w-n-r.pdf";
+    const url = "./Jayarathna-G-W-N-R.pdf";
     const fileName = "Rashmika_Jayarathana_CV.pdf";
     const link = document.createElement("a");
     link.href = url;
